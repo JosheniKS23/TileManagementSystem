@@ -1,6 +1,6 @@
 # TileManagementSystem
 Tile Management System in Java_Hackathon_Sem_2
-# TileInventoryManager
+
 
 A Java-based console application that simulates inventory and sales management for a tile shop. Users can purchase tiles, update stock levels, and view tile-specific details. The system includes exception handling, profit calculations, and real-time inventory feedback.
 
@@ -34,7 +34,7 @@ Each tile type includes:
 1. **Open Eclipse**.
 2. **Create a new Java Project**:
    - Go to `File` > `New` > `Java Project`
-   - Name it `TileInventoryManager`
+   - Name it `TileManagementSystem`
 3. **Create a package**:
    - Right-click `src` > `New` > `Package`
    - Name it: `hackathon`
@@ -61,7 +61,7 @@ Each tile type includes:
 
 ## 🧑‍🎓 Author
 
-Developed as part of a Java programming assignment or hackathon challenge to demonstrate object-oriented programming overriding and exception handling.
+Developed as part of a Java hackathon challenge to demonstrate object-oriented programming overriding and exception handling.
 
 ---
 
